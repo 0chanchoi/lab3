@@ -1,0 +1,15 @@
+.gitignore
+output.txt
+input.txt
+..
+makefile
+-
+output.txt2
+README.md
+shell
+shell_hardlink.c
+shell.c
+.git
+test
+.
+LICENSE
